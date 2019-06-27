@@ -7,7 +7,7 @@ git add -A
 git commit -m "resume update"
 git push
 echo "building formatted resume"
-ipython3 CreateResumeFromTemplate.py
+python CreateResumeFromTemplate.py
 echo "saving formatted resume as PDF"
-ipython3 ShareResume.py
+python ShareResume.py
 echo "saved resume to AWS, committed to GitHub"
