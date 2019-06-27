@@ -10,7 +10,7 @@
 # In[1]:
 
 def main():
-    import docx, math, json, re
+    import docx, math, json, re, time
     import urllib.request
 
 
@@ -183,6 +183,7 @@ def main():
 
 
     doc.save('DavidSchneiderResume.docx')
+    time.sleep(5)
 
 
 if __name__ == "__main__":
