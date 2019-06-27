@@ -54,7 +54,7 @@ def main():
 	s3 = boto3.resource('s3', aws_access_key_id = a_key, aws_secret_access_key = sa_key)
 	client = boto3.client('s3', aws_access_key_id = a_key, aws_secret_access_key = sa_key)
 	#upload
-	client.upload_file('DavidSchneiderResume.pdf', 'davidschneiderprojects', 'DavidSchneiderResume.pdf', ExtraArgs={'ACL':'public-read'})
+	client.upload_file('DavidSchneiderResume.pdf', 'davidschneiderprojects', 'DavidSchneiderResume2.pdf', ExtraArgs={'ACL':'public-read', 'ContentDisposition':'inline'})
 	print('successfully uploaded PDF to AWS.')
 
 if __name__ == "__main__":
