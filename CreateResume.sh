@@ -4,9 +4,7 @@ cd '/Users/kutch/resume'
 git fetch
 source /Users/kutch/.local/share/virtualenvs/env_django-ZXcG8Was/bin/activate
 git add -A
-today="date +%Y-%m-%d"
-commitmsg="$today"
-git commit -m $commitmsg
+git commit -m "resume update"
 git push
 echo "building formatted resume"
 ipython3 CreateResumeFromTemplate.py
