@@ -29,7 +29,10 @@ def main():
 			exec(instruction)
 
 	#word default save location is the downloads folder. could probably fix this if i want
-	shutil.copyfile('/Users/kutch/Downloads/DavidSchneiderResume.pdf', 'DavidSchneiderResume.pdf')
+	try:
+		shutil.copyfile('/Users/kutch/Downloads/DavidSchneiderResume.pdf', 'DavidSchneiderResume.pdf')
+	except FileNotFoundError:
+		pass
 
 
 	# ### Upload PDF file to CDNs
