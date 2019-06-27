@@ -19,7 +19,7 @@ def main():
     # In[2]:
 
 
-    #ptexturl = 'https://github.com/davidschneider04/resume/raw/master/plaintext_resume.json'
+    ptexturl = 'https://raw.githubusercontent.com/davidschneider04/resume/master/plaintext_resume.json'
     ptexturl = "/Users/kutch/resume/plaintext_resume.json"
     ptext = json.load(urllib.request.urlopen(ptexturl))
 
