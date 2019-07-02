@@ -86,7 +86,7 @@ def main():
     contact_text = ''
     for entry, val in ptext['contact'].items():
         contact_text += val
-        contact_text += '\t' if entry != 'website' else ''
+        contact_text += '\t' if entry != 'phone' else ''
     contact_style = doc.styles['ResumeContactLine']
     contact_p = doc.add_paragraph(contact_text)
     contact_p.style = contact_style
@@ -133,7 +133,7 @@ def main():
     # In[9]:
 
 
-    create_section_header("Education / Certifications")
+    create_section_header("Certifications / Education")
     education_style = doc.styles['ResumeCompanyHeader']
     for degree in ptext['education']:
         education_p = doc.add_paragraph('')
