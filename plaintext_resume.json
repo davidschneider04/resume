@@ -7,17 +7,7 @@
 	},
   "summary": "Analytically minded professional with over 5 years of experience designing, executing, and analyzing data-driven marketing efforts. Expert knowledge of email marketing best practices and multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
   "experience": [
-    {
-      "title": "Contractor",
-      "company": "Professional Physical Therapy",
-      "company_description": "Physical therapy company providing high quality care with practices in multiple states.",
-      "start": "Aug 2019",
-      "end": "Present",
-      "achievements": [
-        "Created relational database of expense reports using MS SQL with associated SSRS reports for end users.",
-        "Normalized financial records from various collections agencies to create a standardized relational database using MS SQL."
-      ]
-    },
+    
   	{
       "title": "Sr. Database Marketing Analyst",
       "company": "Vail Resorts, Inc.",
