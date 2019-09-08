@@ -3,46 +3,45 @@
   "contact": {
     "website": "davidtschneider.com",
     "email": "david@davidtschneider.com",
-    "phone": "(508) 397-2351" 
+    "phone": "(508) 397-2351"
   },
   "summary": "Analytically minded professional with over 5 years of experience designing, executing, and analyzing data-driven marketing efforts. Expert knowledge of email marketing best practices and multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
   "experience": [
     {
-      "title": "Contractor", 
-      "company": "Professional Physical Therapy", 
-      "company_description": "Physical therapy company providing high quality care with practices in multiple states", 
-      "start": "Aug 2019", 
-      "end": "Present", 
+      "title": "Contractor",
+      "company": "Professional Physical Therapy",
+      "company_description": "Physical therapy company providing high quality care with practices in multiple states",
+      "start": "Aug 2019",
+      "end": "Present",
       "achievements": [
-        "Created relational database of expense reports using MS SQL with associated SSRS reports for end users.", 
+        "Created relational database of expense reports using MS SQL with associated SSRS reports for end users.",
         "Normalized financial records from various collections agencies to create a standardized relational database using MS SQL."
       ]
     },
     {
-      "title": "Sr. Database Marketing Analyst", 
+      "title": "Sr. Database Marketing Analyst",
       "company": "Vail Resorts, Inc.",
-      "company_description": "Publicly traded, vertically integrated luxury ski resort management company with innovative data-driven marketing strategy.", 
-      "start": "Nov 2014", 
-      "end": "Jul 2019", 
+      "company_description": "Publicly traded, vertically integrated luxury ski resort management company with innovative data-driven marketing strategy.",
+      "start": "Nov 2014",
+      "end": "Jul 2019",
       "achievements": [
         "4+ years as lead developer responsible for translating marketing strategy into executable code for Season Pass email communications, the foremost revenue driver for this Fortune 1000 company.",
-        "Designed and automated hundreds of marketing campaigns, each with unique strategy and data requirements, often sending to millions of customers with scores of personalized content segments.", 
-        "Unit, integration, system, and acceptance testing the merger of 7+ separate databases from acquired companies using SQL and Alteryx.", 
-        "Optimized 30M+ customer data records according to email marketing industry best practices to boost deliverability and overall revenue.", 
+        "Designed and automated hundreds of marketing campaigns, each with unique strategy and data requirements, often sending to millions of customers with scores of personalized content segments.",
+        "Unit, integration, system, and acceptance testing the merger of 7+ separate databases from acquired companies using SQL and Alteryx.",
+        "Optimized 30M+ customer data records according to email marketing industry best practices to boost deliverability and overall revenue.",
         "Created and maintained custom productivity and reporting tools in Python and Alteryx used by multiple team members and visible across the organization.","Managed Facebook ad deployment, pulling segments via enterprise database to upload as Custom Audiences."
       ]
     }
-    
   ],
   "education": [
     {
-      "name": "IBM Data Science Professional Certificate", 
-      "earndate": "May 2019", 
+      "name": "IBM Data Science Professional Certificate",
+      "earndate": "May 2019",
       "description": "9-course specialization in data visualization, data analysis, and machine learning using Python and SQL."
     },
     {
-      "name": "Alteryx Core Developer", 
-      "earndate": "Jun 2018", 
+      "name": "Alteryx Core Developer",
+      "earndate": "Jun 2018",
       "description": null
     },
     {
@@ -51,23 +50,23 @@
       "description": ""
     },
     {
-      "name": "Cornell University", 
-      "earndate": "May 2013", 
+      "name": "Cornell University",
+      "earndate": "May 2013",
       "description": "B.S. in Human Development, Minor in Nutritional Sciences"
     }
   ],
   "skills": [
-    "Python", 
-    "SQL", 
-    "Alteryx", 
-    "Excel", 
-    "JIRA", 
+    "Python",
+    "SQL",
+    "Alteryx",
+    "Excel",
+    "JIRA",
     "Bash / Unix",
     "HTML / CSS",
     "Git",
-    "Data Analysis", 
-    "Data Visualization", 
-    "Email Marketing", 
+    "Data Analysis",
+    "Data Visualization",
+    "Email Marketing",
     "Marketing Automation"
   ]
 }
