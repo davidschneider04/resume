@@ -8,6 +8,17 @@
   "summary": "Analytically minded professional with over 5 years of experience designing, executing, and analyzing data-driven marketing efforts. Expert knowledge of email marketing best practices and multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
   "experience": [
     {
+      "title": "Next Generation Leaders Associate", 
+      "company": "Marketing EDGE", 
+      "company_description": "Rotational program matching new college graduates to two six-month rotations with top employers.", 
+      "start": "Sep 2013", 
+      "end": "Aug 2014", 
+      "achievements": [
+        "During a six-month contract with Epsilon at the Google Inc. Mountain View campus, created decision tree models using R to identify performance drivers of B2B AdWords marketing campaigns.", 
+        "During a six-month contract with Return Path Inc., maintained and documented tables for client and industry information using Apache Hive and Hadoop."
+      ]
+    },
+    {
       "title": "Sr. Database Marketing Analyst", 
       "company": "Vail Resorts, Inc.",
       "company_description": "Publicly traded, vertically integrated luxury ski resort management company with innovative data-driven marketing strategy.", 
@@ -20,18 +31,8 @@
         "Optimized 30M+ customer data records according to email marketing industry best practices to boost deliverability and overall revenue.", 
         "Created and maintained custom productivity and reporting tools in Python and Alteryx used by multiple team members and visible across the organization.","Managed Facebook ad deployment, pulling segments via enterprise database to upload as Custom Audiences."
       ]
-    },
-    {
-      "title": "Next Generation Leaders Associate", 
-      "company": "Marketing EDGE", 
-      "company_description": "Rotational program matching new college graduates to two six-month rotations with top employers.", 
-      "start": "Sep 2013", 
-      "end": "Aug 2014", 
-      "achievements": [
-        "During a six-month contract with Epsilon at the Google Inc. Mountain View campus, created decision tree models using R to identify performance drivers of B2B AdWords marketing campaigns.", 
-        "During a six-month contract with Return Path Inc., maintained and documented tables for client and industry information using Apache Hive and Hadoop."
-      ]
     }
+    
   ],
   "education": [
     {
