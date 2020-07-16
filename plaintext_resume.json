@@ -14,8 +14,9 @@
       "start": "Sep 2019",
       "end": "Present",
       "achievements": [
-        "number one",
-        "number two"
+        "Identify issues with video quality of service (bugs, buffering, etc.) across billions of rows of viewership data. Present ongoing analyses of how they impact customer churn to executives.",
+        "Create language processing scripts in SQL/Python/Tableau to surface concept-level topic classification from free text comments left via cancellation forms, agent/customer chat transcripts, and Reddit comments.",
+        "number three"
       ]
     },
     {
