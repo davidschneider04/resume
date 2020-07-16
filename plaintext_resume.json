@@ -5,9 +5,19 @@
     "email": "david@davidtschneider.com",
     "phone": "(508) 397-2351"
   },
-  "summary": "Analytically minded professional with over 5 years of experience designing, executing, and analyzing data-driven marketing efforts. Expert knowledge of email marketing best practices and multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
+  "summary": "Analytically minded professional with over 7 years of experience developing and analyzing data-driven marketing efforts. Expert knowledge of multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
   "experience": [
-
+    {
+      "title": "Business Operations Analyst III",
+      "company": "Sling TV",
+      "company_description": "TBD",
+      "start": "Sep 2019",
+      "end": "Sep 2019",
+      "achievements": [
+        "number one",
+        "number two"
+      ]
+    },
     {
       "title": "Contractor",
       "company": "Professional Physical Therapy",
