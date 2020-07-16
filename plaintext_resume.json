@@ -10,7 +10,7 @@
     {
       "title": "Business Operations Analyst III",
       "company": "Sling TV",
-      "company_description": "Streaming service providing affordable live TV cable alternatives",
+      "company_description": "Subsidiary of DISH Network, a subscription-based streaming service providing affordable live TV cable alternatives",
       "start": "Sep 2019",
       "end": "Present",
       "achievements": [
@@ -37,11 +37,10 @@
       "start": "Nov 2014",
       "end": "Jul 2019",
       "achievements": [
-        "4+ years as lead developer responsible for translating marketing strategy into executable code for Season Pass email communications, the foremost revenue driver for this Fortune 1000 company.",
-        "Designed and automated hundreds of marketing campaigns, each with unique strategy and data requirements, often sending to millions of customers with scores of personalized content segments.",
-        "Unit, integration, system, and acceptance testing the merger of 7+ separate databases from acquired companies using SQL and Alteryx.",
+        "4+ years as lead for translating marketing strategy into executable code for Season Pass email communications.",
+        "Unit, integration, and acceptance testing the merger of 7+ separate databases from acquired companies using SQL and Alteryx.",
         "Optimized 30M+ customer data records according to email marketing industry best practices to boost deliverability and overall revenue.",
-        "Created and maintained custom productivity and reporting tools in Python and Alteryx used by multiple team members and visible across the organization.","Managed Facebook ad deployment, pulling segments via enterprise database to upload as Custom Audiences."
+        "Created and maintained custom productivity and reporting tools in Python and Alteryx."
       ]
     }
   ],
@@ -77,8 +76,8 @@
     "Bash / Unix",
     "HTML / CSS",
     "Git",
+    "Tableau",
     "Data Analysis",
-    "Data Visualization",
     "Marketing Automation"
   ]
 }
