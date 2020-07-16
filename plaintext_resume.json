@@ -7,18 +7,7 @@
   },
   "summary": "Analytically minded professional with over 5 years of experience designing, executing, and analyzing data-driven marketing efforts. Expert knowledge of email marketing best practices and multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
   "experience": [
-    {
-      "title": "Business Operations Analyst III",
-      "company": "Sling TV",
-      "company_description": "Streaming service providing affordable live TV cable alternatives",
-      "start": "Sep 2019",
-      "end": "Present",
-      "achievements": [
-        "Identify issues with video quality of service (bugs, buffering, etc.) across billions of rows of viewership data. Present ongoing analyses of how they impact customer churn to executives.",
-        "Create language processing scripts in SQL/Python/Tableau to surface concept-level topic classification from free text comments left via cancellation forms, agent/customer chat transcripts, and Reddit comments.",
-        "Analyze and communicate significance of A/B testing results to continually improve the customer's experience across the lifetime of their relationship with Sling."
-      ]
-    },
+
     {
       "title": "Contractor",
       "company": "Professional Physical Therapy",
