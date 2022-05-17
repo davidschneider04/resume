@@ -10,7 +10,8 @@
 # In[1]:
 
 def main():
-    import docx, math, json, re, time
+    #import docx
+	import math, json, re, time
     import urllib.request
 
 

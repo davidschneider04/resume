@@ -5,29 +5,41 @@
     "email": "david@davidtschneider.com",
     "phone": "(508) 397-2351"
   },
-  "summary": "Analytically minded professional with over 7 years of experience developing and analyzing data-driven marketing efforts. Expert knowledge of multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
+  "summary": "Analytically minded professional with over 9 years of experience developing and analyzing data-driven marketing efforts. Expert knowledge of multi-dimensional customer databases. Fluid in translating between marketing strategy and granular technical details. Able to learn new tools and processes quickly and with scrutiny. Adept at using Python and shell scripting to create customized and powerful marketing tools. Collaborative worker with a focus on efficiency, communication, and documentation.",
   "experience": [
+    {
+      "title": "Data Science Manager",
+      "company": "Sling TV",
+      "company_description": "Subsidiary of DISH Network, a subscription-based streaming service providing affordable live TV cable alternatives",
+      "start": "Mar 2022",
+      "end": "Present",
+      "achievements": [
+        "Catalog unstructured SQL data lake tables and their business context by creating a web app in Python/Flask, hosted with Windows Server.",
+        "Maintain ETL processes for large custom SQL tables using Parquet file format to partition billions of rows."
+      ]
+    },
+    {
+      "title": "Senior Business Operations Analyst",
+      "company": "Sling TV",
+      "company_description": "Subsidiary of DISH Network, a subscription-based streaming service providing affordable live TV cable alternatives",
+      "start": "Jun 2021",
+      "end": "Mar 2022",
+      "achievements": [
+        "Spearhead adoption of GitLab for version control and dynamic code updates across projects.",
+        "Develop downloadable packages of custom Python code to share work methods between colleagues.",
+        "Create customer reports in Python, distributed automatically using a scheduled AWS EC2 instance.",
+      ]
+    },
     {
       "title": "Business Operations Analyst III",
       "company": "Sling TV",
       "company_description": "Subsidiary of DISH Network, a subscription-based streaming service providing affordable live TV cable alternatives",
       "start": "Sep 2019",
-      "end": "Present",
+      "end": "Jun 2021",
       "achievements": [
-        "Identify issues with video quality of service (bugs, buffering, etc.) across billions of rows of viewership data. Present ongoing analyses of how they impact customer churn to executives.",
+        "Identify issues with video quality of service (bugs, buffering, etc.) using viewership data. Present ongoing analyses of how they impact customer churn to executives.",
         "Create language processing scripts in SQL/Python/Tableau to surface concept-level topic classification from free text comments left via cancellation forms, agent/customer chat transcripts, and Reddit comments.",
-        "Analyze and communicate significance of A/B testing results to continually improve the customer's experience across the lifetime of their relationship with Sling."
-      ]
-    },
-    {
-      "title": "Contractor",
-      "company": "Professional Physical Therapy",
-      "company_description": "Physical therapy company providing high quality care with practices in multiple states",
-      "start": "Aug 2019",
-      "end": "Present",
-      "achievements": [
-        "Create and administer accounting view in SSRS of Concur expense report records for internal auditing.",
-        "DBA/Architect of MS-SQL database for customer transactions translated into accounting projections."
+        "Analyze and communicate significance of A/B testing results."
       ]
     },
     {
